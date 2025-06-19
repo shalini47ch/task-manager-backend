@@ -67,7 +67,6 @@ public class TaskController {
             throw new ResponseStatusException(HttpStatus.FORBIDDEN, "You cannot edit this task");
         }
 
-        // ✅ Update fields
         task.setTitle(updatedTask.getTitle());
         task.setDescription(updatedTask.getDescription());
         task.setStatus(updatedTask.getStatus());
