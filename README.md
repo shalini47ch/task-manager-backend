@@ -1,6 +1,8 @@
 # TaskHub — Secure & Modern Task Manager
 
-## Demo 
+## 🎥 Demo Video
+
+👉 [Click here to watch the demo](./recording-2025-06-19-171619_pUS7Scad.mp4)
 
 
 
