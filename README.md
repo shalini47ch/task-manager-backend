@@ -75,7 +75,8 @@ It features a responsive **React + Tailwind CSS** frontend, a robust **Spring Bo
 
 ![image](https://github.com/user-attachments/assets/9c428801-2cae-4d3f-a2bf-483d981230cc)
 
-
+### Frontend code 
+[Frontend code](https://github.com/shalini47ch/task-manager-frontend)
 ## 8. How DBRef Works
 
 Each task references its creator’s user document using MongoDB `DBRef`.  
