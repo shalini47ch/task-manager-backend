@@ -1,0 +1,18 @@
+# Java
+*.class
+*.log
+target/
+*.jar
+
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Env file (if you make one later)
+.env
