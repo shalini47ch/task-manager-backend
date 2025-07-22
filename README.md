@@ -8,6 +8,19 @@
 ## Flow 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5c6900a-00ec-45c8-a1a2-e817a1f986e1" />
 
+Use the following accounts to explore the app(Test Credentials):
+
+[**Live Link**](https://symphonious-empanada-f8fab0.netlify.app/)
+
+### Regular User
+- **Username:** `mohan`
+- **Password:** `1234`
+
+### Admin User
+- **Username:** `admin`
+- **Password:** `1234`
+
+> 🔐 Note: All passwords are securely hashed using bcrypt in the backend.
 
 ## 1.Overview
 
