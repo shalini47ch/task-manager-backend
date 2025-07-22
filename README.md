@@ -5,6 +5,8 @@
 
 👉 [Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1MTcHC2LttMAqQYYDFofmX-R7XsdSzm4g/view?usp=sharing)
 
+## Flow 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5c6900a-00ec-45c8-a1a2-e817a1f986e1" />
 
 
 ## 1.Overview
